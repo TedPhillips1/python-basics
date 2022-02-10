@@ -1,3 +1,5 @@
+
+
 print("Welcome to the Quiz")
 
 player = input("What's your name? ")
